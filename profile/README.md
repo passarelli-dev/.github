@@ -1,4 +1,3 @@
-## Hi there 👋
 # passarelli.dev
 
 Welcome to "passarelli.dev," a private software development organization.
